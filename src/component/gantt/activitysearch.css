@@ -1,0 +1,7 @@
+#activitySearchBox.focused {
+  border-color: #1976d2
+}
+
+#activitySearchBox.focused > div {
+  color: #1976d2
+}
